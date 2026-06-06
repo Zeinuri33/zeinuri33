@@ -53,16 +53,24 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zeinuri33&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" />
-
-  <img src="https://streak-stats.demolab.com?user=zeinuri33&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="180" />
+  <img
+    width="900"
+    src="https://streak-stats.demolab.com?user=zeinuri33&theme=tokyonight&hide_border=false&border_radius=5"
+  />
+  <br><br>
+  <img
+    width="900"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=zeinuri33&theme=tokyonight&hide_border=false&layout=compact&card_width=600"
+  />
 </div>
 
 ###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeinuri33/zeinuri33/pacman-output/puzzle-bobble-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zeinuri33/zeinuri33/pacman-output/puzzle-bobble-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zeinuri33/zeinuri33/pacman-output/puzzle-bobble-contribution-graph.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeinuri33/zeinuri33/pacman-output/puzzle-bobble-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zeinuri33/zeinuri33/pacman-output/puzzle-bobble-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zeinuri33/zeinuri33/pacman-output/puzzle-bobble-contribution-graph.svg">
+  </picture>
+</div>
 
 ###
